@@ -10,15 +10,15 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Khaled-Freaken-Cr7&theme=darkhub&row=2&column=9" alt="Khaled-Freaken-Cr7" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Khaled-Abdelfattah&theme=darkhub&row=2&column=9" alt="Khaled-Abdelfattah" />
   </a> 
 </p>
 
 <!-- Fun Stats -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Khaled-Freaken-Cr7&style=flat-square&color=blue" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/Khaled-Freaken-Cr7?label=Followers&style=flat-square&color=green" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/Khaled-Freaken-Cr7?affiliations=OWNER&style=flat-square&color=yellow" alt="GitHub Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Khaled-Abdelfattah&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Khaled-Abdelfattah?label=Followers&style=flat-square&color=green" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/Khaled-Abdelfattah?affiliations=OWNER&style=flat-square&color=yellow" alt="GitHub Stars"/>
 </p>
 
 ## 🚀 About Me
@@ -74,23 +74,23 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khaled-Freaken-Cr7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&cache_seconds=86400" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Khaled-Abdelfattah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&cache_seconds=86400" height="150" alt="stats graph"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khaled-Freaken-Cr7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=tokyonight&hide_border=false&cache_seconds=86400" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khaled-Abdelfattah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=tokyonight&hide_border=false&cache_seconds=86400" height="150" alt="languages graph" />
 </div>
 
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khaled-Freaken-Cr7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khaled-Abdelfattah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <!-- 3D Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khaled-Freaken-Cr7&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=💻%20My%20Code%20Journey%20-%20Every%20Commit%20Tells%20a%20Story" alt="3D Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khaled-Abdelfattah&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=💻%20My%20Code%20Journey%20-%20Every%20Commit%20Tells%20a%20Story" alt="3D Contribution Graph" />
 </div>
 
-<img src="https://raw.githubusercontent.com/Khaled-Freaken-Cr7/Khaled-Freaken-Cr7/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Khaled-Abdelfattah/Khaled-Abdelfattah/output/snake.svg" alt="Snake animation" />
 
 ---
 
