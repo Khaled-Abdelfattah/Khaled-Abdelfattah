@@ -8,11 +8,7 @@
 </p>
 
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Khaled-Abdelfattah&theme=darkhub&row=2&column=9" alt="Khaled-Abdelfattah" />
-  </a> 
-</p>
+![](https://github-profile-trophy.vercel.app/?username=Khaled-Abdelfattah&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Fun Stats -->
 <p align="center">
