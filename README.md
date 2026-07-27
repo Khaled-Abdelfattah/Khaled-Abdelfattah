@@ -23,13 +23,13 @@
 
 ## 🚀 About Me
 
-- 🎓 **Computer Science Student** at Assiut University (3rd Year, Expected Graduation: 2027).
+- 🎓 **Computer Science Student** at Assiut University (4th Year, Expected Graduation: 2027).
 - 💼 **Started Studieng** .NET Development & Backend Systems
 - 🧠 **Problem Solving Enthusiast** with strong algorithmic thinking
 - 👨‍🏫 **Problem Solving Mentor and Problem Setter** - Trained 150+ students in programming
 - 📝 I regularly share insights on [LinkedIn]((https://www.linkedin.com/in/khaled-abdulfattah-hefzy/))
 - 💬 Ask me about **Backend Development, Problem Solving, Competitive programming**
-- 📫 Reach me at **khassaan779@gmail.com**
+- 📫 Reach me at **khaled.a.hefzy@gmail.com**
 - ⚡ Fun fact: **I never give up on challenging problems!**
 
 ---
