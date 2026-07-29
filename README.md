@@ -30,7 +30,6 @@
 - 📝 I regularly share insights on [LinkedIn]((https://www.linkedin.com/in/khaled-abdulfattah-hefzy/))
 - 💬 Ask me about **Backend Development, Problem Solving, Competitive programming**
 - 📫 Reach me at **khaled.a.hefzy@gmail.com**
-- ⚡ Fun fact: **I never give up on challenging problems!**
 
 ---
 
@@ -38,28 +37,11 @@
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,java,python" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,c,python,mysql,sqlserver,git,github,visualstudio,vscode" />
 </p>
 
 ---
 
-## 🛢️ Databases & Dev Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="Microsoft Access" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
----
-
-## 🛠️ Development Environments
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode" />
-</p>
-
----
 
 ## 💡 Core Competencies
 
@@ -112,7 +94,7 @@
   <a href="https://www.linkedin.com/in/khaled-abdulfattah-hefzy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:khassaan779@gmail.com" target="_blank">
+  <a href="mailto:khaled.a.hefzy@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
