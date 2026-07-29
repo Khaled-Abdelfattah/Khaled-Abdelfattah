@@ -36,7 +36,7 @@
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,c,python,mysql,sqlite,git,github,visualstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,c,java,python,mysql,sqlite,git,github,visualstudio,vscode" />
 </p>
 
 ---
