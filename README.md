@@ -27,7 +27,6 @@
 - 💼 **Started Studieng** .NET Development & Backend Systems
 - 🧠 **Problem Solving Enthusiast** with strong algorithmic thinking
 - 👨‍🏫 **Problem Solving Mentor and Problem Setter** - Trained 150+ students in programming
-- 📝 I regularly share insights on [LinkedIn]((https://www.linkedin.com/in/khaled-abdulfattah-hefzy/))
 - 💬 Ask me about **Backend Development, Problem Solving, Competitive programming**
 - 📫 Reach me at **khaled.a.hefzy@gmail.com**
 
