@@ -44,7 +44,7 @@
 
 ## 💡 Core Competencies
 
-- **Database Management**: SQL Server, MySQL
+- **Database Management**: SQL Server, MySQL, SQLite, PostgreSQL
 - **Problem Solving**: Data Structures and ALgorithms, Competitive Programming
 - **Software Architecture**: Design Patterns, OOP
 - **Version Control**: Git, GitHub
